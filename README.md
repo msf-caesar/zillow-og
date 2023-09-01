@@ -4,7 +4,8 @@ OG dynamically generates images when sharing Zillow property links, offering key
 advantages:
 
 ![Zillow Dynamic Image](/assets/zillow-og@1x.png)
-![Zillow Dynamic Video](/assets/zillow-og.mp4)
+
+[Zillow Dynamic Video](https://www.loom.com/share/a4eb21581fee454cb7163a98a50279ce?sid=dcb4967c-36bb-4207-a974-41b1835ef68e)
 
 | **Benefit**                | **Description**                                                         |
 | -------------------------- | ----------------------------------------------------------------------- |
